@@ -9,7 +9,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: mrsuicideparrot/hassio-speedtest-addon
+  IMAGE_NAME: si458/hassio-speedtest-addon
 
 jobs:
   build:

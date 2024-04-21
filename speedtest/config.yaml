@@ -1,7 +1,7 @@
 ---
 name: "Speedtest"
 description: "Speedtest-cli addon"
-version: 1.6.1
+version: 1.6.2
 slug: "speedtest_addon"
 init: false
 boot: manual
@@ -23,5 +23,5 @@ schema:
   server_id: int?
   debug: bool?
   print_closest_servers: bool?
-url: https://github.com/MrSuicideParrot/hassio-speedtest-addon
-image: ghcr.io/mrsuicideparrot/hassio-speedtest-addon-{arch}
+url: https://github.com/si458/hassio-speedtest-addon
+image: ghcr.io/si458/hassio-speedtest-addon-{arch}
